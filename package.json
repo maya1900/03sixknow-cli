@@ -1,6 +1,6 @@
 {
   "name": "sixknow-cli",
-  "version": "1.0.4",
+  "version": "1.1.1",
   "description": "a sixknow vue-cli",
   "main": "index.js",
   "bin": {
@@ -12,7 +12,9 @@
   "keywords": [
     "vue",
     "cli",
-    "component"
+    "component",
+    "mock",
+    "server"
   ],
   "author": "sixknow",
   "license": "MIT",
@@ -22,7 +24,6 @@
     "download-git-repo": "^3.0.2",
     "ejs": "^3.1.7",
     "inquirer": "^8.2.4",
-    "open": "^8.4.0",
     "ora": "^5.0.0"
   },
   "homepage": "https://github.com/maya1900/sixknow-cli",
