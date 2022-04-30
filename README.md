@@ -19,4 +19,4 @@
 
 ![](https://cdn.jsdelivr.net/gh/maya1900/pic@master/img/202204301605870.png)
 
-![](https://secure2.wostatic.cn/static/UUa3eSggvcUYPpsRYmwss/GIF 2022-4-30 16-04-02.gif)
+![](https://cdn.jsdelivr.net/gh/maya1900/pic@master/img/202204301748645.gif)
